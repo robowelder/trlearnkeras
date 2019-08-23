@@ -13,9 +13,10 @@ We create the two layer,1st layer as the weights from **resnet50_weights_tf_dim_
 [Concept of Transfer Learning ](https://www.youtube.com/watch?v=L7qjQu2ry2Q)
 
 
-1. First Download the [ResNet50 Dataset ](https://www.google.com) .You can also download it from kaggle or any other open source.
+1. First Download the [ResNet50 Dataset ](https://github.com/rautsrijana/Transfer_learning/tree/master/resnet50) .You can also download it from kaggle or any other open source.
 2. Next download another dataset, I have choosen as cats and dogs dataset.You can custom your own dataset here.
-[Cat and Dog train-valid dataset ](https://www.google.com) and
-[Test dataset ](https://www.google.com)
+[Cat and dog train dataset](https://github.com/rautsrijana/Transfer_learning/tree/master/train)
+[Cat and Dog valid dataset ](https://github.com/rautsrijana/Transfer_learning/tree/master/valid) and
+[Test dataset ](https://github.com/rautsrijana/Transfer_learning/tree/master/test/test)
 
 With all above steps through the transfer learning nookbook, import the useful library and run your model.
